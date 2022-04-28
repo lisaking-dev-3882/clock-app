@@ -1,0 +1,32 @@
+body {
+    background-color: #002699;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 6vh;
+}
+
+#clock {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 6vh;
+    line-height: 3em;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 6vh;
+
+}
+
+#currentdate {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
